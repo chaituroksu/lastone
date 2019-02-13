@@ -1,11 +1,11 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Hello world!</title>
+<title>Hello my world!</title>
 </head>
 <body>
 
-<h1>Create a new person</h1>
+<h1>Create a new person like chaitu</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
